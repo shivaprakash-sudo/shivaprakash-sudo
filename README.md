@@ -13,7 +13,7 @@
 You can checkout the projects in my profile and I'd love to hear your opinions on them. You can even contribute to develop them further, if you like any of them.
 
 Here are my socials, if you want to connect with or contact me.
-[LinkedIn](https://www.linkedin.com/in/psprises)
+[LinkedIn](https://www.linkedin.com/in/shiva-pendem)
 
 I hope you have a good day. :)
 
