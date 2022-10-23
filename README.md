@@ -1,16 +1,14 @@
 <img title="GitHub Banner" src="resources/FullStackDev.png" alt="Banner with name and an illustration of a person" />
 
+Hello there!
 
-- I’m interested in web design, frontend web development and mobile web applications.
-- I have experience in the following areas.
-    * Design: Figma. 
-    * Frontend: HTML5, CSS3, JavaScript, jQuery, Bootstrap, React, Tailwindcss.
-    * Backend: Node.js, Express, EJS.
-    * Databases: NoSQL (MongoDB), SQL (MySQL).
-- I'm also very comfortable with CLI (Command Line Interface) tools.
-- I’m interested to collaborate with other developers in this web development world.
+I'm a developer who's shy at first, but gets very outgoing once I get comfortable with people. I like mingling with people, playing games when I'm free or watch movie rants when I'm bored.
 
-You can checkout the projects in my profile and I'd love to hear your opinions on them. You can even contribute to develop them further, if you like any of them.
+I try to keep up with latest technologies, but learning all of them would be impossible, so I usually stick to below areas, but that doesn't mean that I won't be learning some new technology, because I love learning stuff.
+   - Languages: HTML5, CSS3, JavaScript (ES6+), Node.js, TypeScript, Java, Python
+   - Frameworks: jQuery, SASS, Bootstrap, Tailwind, ReactJS, Express
+   - Databases: SQL (MySQL), NoSQL (MongoDB)
+   - Tools: Figma, Embedded JavaScript (EJS), Source Control (Git), CLI tools
 
 Here are my socials, if you want to connect with or contact me.
 [LinkedIn](https://www.linkedin.com/in/shiva-pendem)
