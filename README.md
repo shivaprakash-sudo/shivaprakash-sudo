@@ -10,8 +10,8 @@ I try to keep up with latest technologies, but learning all of them would be imp
    - Databases: SQL (MySQL), NoSQL (MongoDB)
    - Tools: Figma, Embedded JavaScript (EJS), Source Control (Git), CLI tools
 
-Here are my socials, if you want to connect with or contact me.
-[LinkedIn](https://www.linkedin.com/in/shiva-pendem)
+<!-- Here are my socials, if you want to connect with or contact me.
+[LinkedIn](https://www.linkedin.com/in/shiva-pendem) -->
 
 I hope you have a good day. :)
 
