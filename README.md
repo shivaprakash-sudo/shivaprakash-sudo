@@ -1,4 +1,4 @@
-<img title="GitHub Banner" src="resources/FullStackDev.png" alt="Banner with name and an illustration of a person" />
+<!--<img title="GitHub Banner" src="resources/FullStackDev.png" alt="Banner with name and an illustration of a person" />-->
 
 Hello there!
 
