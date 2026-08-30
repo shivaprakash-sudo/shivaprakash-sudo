@@ -19,13 +19,6 @@
 
 ---
 
-### 💼 Experience
-
-- **Senior Developer @ Mobileum UK** *(2023–2025)* - Real-time Diameter/SS7 signalling firewall protecting 4G/5G networks at 100k+ TPS
-- **Java Full Stack Developer @ MVR IT** *(2022–2023)* - Event-driven SEPA payment microservices with Spring Boot, Kafka & IBM MQ
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
